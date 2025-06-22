@@ -1,0 +1,40 @@
+# Виртуальное окружение
+venv/
+env/
+
+# Компилированные Python-файлы
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# Настройки IDE (VS Code)
+.vscode/
+*.code-workspace
+
+# Отчёты тестов
+reports/
+allure-results/
+allure-report/
+htmlcov/
+coverage.xml
+*.cover
+*.coverage
+
+# Pytest
+.cache/
+
+# Playwright
+test-results/
+playwright-report/
+
+# Файлы Jupyter / IPython
+.ipynb_checkpoints/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
