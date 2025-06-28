@@ -1,6 +1,5 @@
 # Виртуальное окружение
 venv/
-env/
 
 # Компилированные Python-файлы
 __pycache__/
@@ -33,9 +32,3 @@ coverage.xml
 test-results/
 playwright-report/
 
-# Файлы Jupyter / IPython
-.ipynb_checkpoints/
-
-# Windows system files
-Thumbs.db
-ehthumbs.db
